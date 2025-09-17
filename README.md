@@ -42,5 +42,5 @@ Successfully deployed a production-ready portfolio website with:
 
 ✅ Scalable AWS infrastructure
 
-Your portfolio is now live and professionally hosted on AWS! 🌐
+
 
