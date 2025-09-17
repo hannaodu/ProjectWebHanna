@@ -34,18 +34,12 @@ export default function Portfolio() {
       type: "Data Engineering",
     },
     {
-      title: "Cloud Cost Optimization Tool",
+      title: "ProjectWebHanna",
       description:
-        "Created an intelligent cost optimization platform that analyzes cloud usage patterns and provides automated recommendations. Achieved 40% cost reduction across multiple accounts.",
-      technologies: [
-        "Python",
-        "AWS Cost Explorer",
-        "React",
-        "PostgreSQL",
-        "Docker",
-      ],
-      link: "https://github.com/yourusername/cost-optimizer",
-      type: "FinOps",
+        "I built my personal website using the AWS Cloud Development Kit (CDK) to define the infrastructure as code, enabling a fully automated and scalable deployment pipeline. The site is hosted and deployed via AWS Amplify, allowing for continuous integration and delivery with every code update. This project showcases my ability to leverage modern cloud tools to build, manage, and deploy web applications efficiently.",
+      technologies: ["HTML", "Aws", "Amplify", "CDK", "Github"],
+      link: "https://github.com/hannaodu/ProjectWebHanna",
+      type: "Infrastruture",
     },
     {
       title: "GitOps CI/CD Platform",
