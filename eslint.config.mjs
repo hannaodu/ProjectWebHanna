@@ -22,4 +22,10 @@ const eslintConfig = [
   },
 ];
 
-export default eslintConfig;
+export default {
+  rules: {
+    "@next/next/no-html-link-for-pages": "off",
+  },
+  ...eslintConfig,
+}
+

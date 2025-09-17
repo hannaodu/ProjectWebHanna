@@ -255,11 +255,11 @@ export default function Portfolio() {
       <section id="contact" className="py-16 px-6 bg-gray-50/50">
         <div className="container mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-bold mb-6">
-            <span className="text-black block"> Let's Work Together</span>
+            <span className="text-black block"> Lets Work Together</span>
           </h2>
           <p className="text-gray-600 text-lg mb-8 text-pretty font-bold">
             Interested in collaborating on cloud infrastructure projects or
-            discussing opportunities? I'd love to hear from you.
+            discussing opportunities? Id love to hear from you.
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <a
