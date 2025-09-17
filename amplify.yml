@@ -1,0 +1,15 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - cd portfolio
+        - npm install
+    build:
+      commands:
+        - cd portfolio
+        - npm run build
+  artifacts:
+    baseDirectory: portfolio/.next
+    files:
+      - '**/*'
