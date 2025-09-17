@@ -101,7 +101,7 @@ export default function Portfolio() {
                 </span>
               </h1>
               <p className="text-xl text-gray-600 text-pretty mb-6 leading-relaxed">
-                Passionate about building scalable, secure, and cost-effective
+                Passionate about building scalable,secure,and cost-effective
                 cloud solutions. Specializing in multi-cloud architectures,
                 DevOps automation, and infrastructure as code.
               </p>
