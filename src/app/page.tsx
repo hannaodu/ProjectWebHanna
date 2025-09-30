@@ -20,7 +20,7 @@ export default function Portfolio() {
       type: "Monitoring",
     },
     {
-      title: "End-to-End Kubernetes DevSecOps Tetris Game",
+      title: "Kubernetes DevSecOps Tetris Game",
       description:
         "I successfully designed and implemented a complete DevSecOps pipeline for deploying a React-based Tetris game on Kubernetes. This project demonstrates modern cloud-native development practices with robust security integration.The Tetris game is now live and accessible via AWS Load Balancer, showcasing a production-ready application deployed through automated security-focused pipelines. This project highlights expertise in cloud-native development, security integration, and infrastructure automation.",
       technologies: [
