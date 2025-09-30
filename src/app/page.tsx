@@ -24,14 +24,13 @@ export default function Portfolio() {
       description:
         "I successfully designed and implemented a complete DevSecOps pipeline for deploying a React-based Tetris game on Kubernetes. This project demonstrates modern cloud-native development practices with robust security integration.The Tetris game is now live and accessible via AWS Load Balancer, showcasing a production-ready application deployed through automated security-focused pipelines. This project highlights expertise in cloud-native development, security integration, and infrastructure automation.",
       technologies: [
-        "AWS Loadbalancer",
         "React.js",
         "Kubernetes, Docker, AWS",
         "Jenkins, SonarQube, Trivy, OWASP, ArgoCD",
         "Static code analysis, vulnerability scanning, container security",
       ],
-      link: "https://github.com/yourusername/serverless-pipeline",
-      type: "Data Engineering",
+      link: " https://github.com/hannaodu/End-to-End-Kubernetes-DevSecOps-Tetris.git",
+      type: "Static code analysis, vulnerability scanning, container security",
     },
     {
       title: "ProjectWebHanna",
