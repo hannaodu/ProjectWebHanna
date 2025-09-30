@@ -20,15 +20,15 @@ export default function Portfolio() {
       type: "Monitoring",
     },
     {
-      title: "Serverless Data Pipeline",
+      title: "End-to-End Kubernetes DevSecOps Tetris Game",
       description:
-        "Developed a scalable data processing pipeline using AWS Lambda, Step Functions, and EventBridge. Processes 1M+ events daily with 99.9% reliability and automatic error handling.",
+        "I successfully designed and implemented a complete DevSecOps pipeline for deploying a React-based Tetris game on Kubernetes. This project demonstrates modern cloud-native development practices with robust security integration.The Tetris game is now live and accessible via AWS Load Balancer, showcasing a production-ready application deployed through automated security-focused pipelines. This project highlights expertise in cloud-native development, security integration, and infrastructure automation.",
       technologies: [
-        "AWS Lambda",
-        "Step Functions",
-        "EventBridge",
-        "Python",
-        "DynamoDB",
+        "AWS Loadbalancer",
+        "React.js",
+        "Kubernetes, Docker, AWS",
+        "Jenkins, SonarQube, Trivy, OWASP, ArgoCD",
+        "Static code analysis, vulnerability scanning, container security",
       ],
       link: "https://github.com/yourusername/serverless-pipeline",
       type: "Data Engineering",
