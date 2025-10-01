@@ -12,12 +12,12 @@ export default function Portfolio() {
       type: "Infrastructure",
     },
     {
-      title: "Kubernetes Monitoring Platform",
+      title: "Serverless Contact Form - HanadeTravel",
       description:
-        "Built a comprehensive monitoring solution for Kubernetes clusters using Prometheus, Grafana, and custom operators. Provides real-time insights and automated alerting for 50+ microservices.",
-      technologies: ["Kubernetes", "Prometheus", "Grafana", "Go", "Docker"],
-      link: "https://github.com/yourusername/k8s-monitoring",
-      type: "Monitoring",
+        "Designed and deployed a fully serverless contact form solution on AWS, implementing a complete full-stack architecture from frontend to backend. The responsive frontend was hosted on Amazon S3 for high availability with zero server management, while AWS Lambda functions handled form processing and business logic. API Gateway was configured with secure CORS policies to facilitate safe client-server communication. Form submissions triggered real-time email notifications via Amazon SES and were automatically persisted in DynamoDB for reliable storage and retrieval. The entire infrastructure was automated using Terraform, ensuring consistent and scalable deployment with minimal operational overhead.",
+      technologies: ["AWS Lambda", "API Gateway", " S3", "Terraform", "SES"],
+      link: "https://github.com/hannaodu/ProjectWebHanna.git",
+      type: "Cloud & DevOps",
     },
     {
       title: "Kubernetes DevSecOps Tetris Game",
