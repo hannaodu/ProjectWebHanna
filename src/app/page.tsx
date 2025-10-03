@@ -41,12 +41,18 @@ export default function Portfolio() {
       type: "Infrastruture",
     },
     {
-      title: "GitOps CI/CD Platform",
+      title: "Cloud-Native E-commerce with Live Monitoring",
       description:
-        "Implemented a GitOps-based continuous deployment system using ArgoCD and Tekton. Enables secure, auditable deployments with automatic rollback capabilities.",
-      technologies: ["ArgoCD", "Tekton", "Kubernetes", "Git", "Helm"],
-      link: "https://github.com/yourusername/gitops-platform",
-      type: "DevOps",
+        "I designed and deployed a fully serverless e-commerce platform on AWS, using a Next.js frontend on S3/CloudFront, AWS Lambda with API Gateway for business logic, and SQS/SES for order processing and notifications. I implemented CloudWatch dashboards, X-Ray tracing, and FinOps practices that reduced costs by 94%. I ensured 99.9% availability with DynamoDB Global Tables in a multi-region setup and managed the entire infrastructure with Terraform and automated CI/CD pipelines.",
+      technologies: [
+        "AWS Lambda",
+        "DynamoDB",
+        "SQS",
+        "Cost Explorer API",
+        "API Gateway",
+      ],
+      link: "https://github.com/hannaodu/Cloud-Native-E-commerce-with-Live-Monitoring.git",
+      type: "Real-time Observability & Cost Optimization",
     },
     {
       title: "Cloud Security Compliance Scanner",
