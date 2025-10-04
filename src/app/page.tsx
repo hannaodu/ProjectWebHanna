@@ -16,7 +16,7 @@ export default function Portfolio() {
       description:
         "Designed and deployed a fully serverless contact form solution on AWS, implementing a complete full-stack architecture from frontend to backend. The responsive frontend was hosted on Amazon S3 for high availability with zero server management, while AWS Lambda functions handled form processing and business logic. API Gateway was configured with secure CORS policies to facilitate safe client-server communication. Form submissions triggered real-time email notifications via Amazon SES and were automatically persisted in DynamoDB for reliable storage and retrieval. The entire infrastructure was automated using Terraform, ensuring consistent and scalable deployment with minimal operational overhead.",
       technologies: ["AWS Lambda", "API Gateway", " S3", "Terraform", "SES"],
-      link: "https://github.com/hannaodu/ProjectWebHanna.git",
+      link: "https://github.com/hannaodu/Hanadetravel-form.git",
       type: "Cloud & DevOps",
     },
     {
@@ -269,7 +269,7 @@ export default function Portfolio() {
               Send Email
             </a>
             <a
-              href="https://drive.google.com/file/d/1dolA48uUtqbVhLnQHkuFd3hEAk-HON8U/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1XvGRobUPpH8HCxjAJQsF_aAio6QOa902/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 border border-gray-300 hover:border-gray-400 text-gray-700 font-medium rounded-lg transition-colors"
